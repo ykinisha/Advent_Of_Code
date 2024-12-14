@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 12 15:25:28 2024
-
-@author: ykinisha
-"""
 from helpers.helper import read_file
 import re
 

@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 12 14:21:48 2024
-
-@author: ykinisha
-"""
 from helpers.helper import read_file
 
 # Validate list is sorted either ascending or descending
